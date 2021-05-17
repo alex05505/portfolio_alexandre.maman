@@ -318,31 +318,23 @@ hr.red {
 }
 
 .timeline-item:nth-child(6) .timeline-img-header {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1200274448.jpg?w=1024") center center no-repeat;
-}
-
-.timeline-item:nth-child(7) .timeline-img-header {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("https://www.silicon.fr/wp-content/uploads/2018/10/unnamed-1-3-1.jpg") center center no-repeat;
-}
-
-.timeline-item:nth-child(8) .timeline-img-header {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("https://www.silicon.fr/wp-content/uploads/2018/03/avis-experts-cisco-cybersecurite-684x513.jpg") center center no-repeat;
-}
-
-.timeline-item:nth-child(9) .timeline-img-header {
   background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2020/11/Cyberattack__w630.jpg") center center no-repeat;
 }
 
-.timeline-item:nth-child(10) .timeline-img-header {
+.timeline-item:nth-child(7) .timeline-img-header {
   background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("https://www.journaldugeek.com/content/uploads/2020/12/nahel-abdul-hadi-flha0kwrrrc-unsplash-scaled.jpg") center center no-repeat;
 }
 
-.timeline-item:nth-child(11) .timeline-img-header {
+.timeline-item:nth-child(8) .timeline-img-header {
   background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("https://images.ladepeche.fr/api/v1/images/view/60356c048fe56f7c9213f275/large/image.jpg?v=1") center center no-repeat;
 }
 
-.timeline-item:nth-child(12) .timeline-img-header {
+.timeline-item:nth-child(9) .timeline-img-header {
   background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("https://www.journaldugeek.com/content/uploads/2019/05/hacker-1944688-1280.jpg") center center no-repeat;
+}
+
+.timeline-item:nth-child(10) .timeline-img-header {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("https://img.20mn.fr/xu28sQ32St6v_ZPtUT-Jlg/640x410_android-plusieurs-applications-google-victimes-d-un-important-bug.jpg") center center no-repeat;
 }
 
 .timeline-img-header {
